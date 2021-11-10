@@ -1,0 +1,29 @@
+---
+canvas: "https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:ct002087/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sarmatia secunda",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "RobSis",
+                "name": "RobSis"
+            },
+            "created": "2021-11-10T14:11:30.670Z",
+            "modified": "2021-11-10T14:11:47.223Z"
+        }
+    ],
+    "target": {
+        "source": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3200:g3200:ct002087/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4539.73095703125,2139.319580078125 4547.00341796875,2092.046630859375 4805.185546875,2113.864990234375 4793.3671875,2162.955810546875\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "97119033-3aff-467e-8e3f-5d85cc215600.json"
+}
